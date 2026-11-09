@@ -21,3 +21,4 @@ exclude:
   - _news
   - _showcase
   - work
+  - vendor
