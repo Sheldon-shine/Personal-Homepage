@@ -1,0 +1,45 @@
+primary_name: "Xiangdong Wen"
+secondary_name: ""
+navbar_name: "Xiangdong Wen"
+
+positions:
+- name: Ph.D. Student in Surgery, Peking University
+
+email: "wxd7926@163.com"
+
+short_bio_text_justify: false
+short_bio: >-
+  <p>
+    I am a doctoral student in Surgery at Peking University. My clinical and research interests center on orthopaedic conditions, especially osteoarthritis, femoral head osteonecrosis, and anterior cruciate ligament injuries.
+  </p>
+  <p>
+    My research explores hydrogel and hydrogel microsphere engineering for tissue-engineering approaches to osteoarthritis, cartilage defects, and bone defects. Related topics in my publications include macrophage regulation, oxidative stress, inflammation, and biomaterial-based repair.
+  </p>
+  <p>
+    My clinical training includes foundational techniques in common joint surgery and the diagnosis and treatment of common orthopaedic conditions. I hold a medical qualification certificate and a medical practitioner license in China.
+  </p>
+  <p>
+    <strong>Laboratory techniques:</strong> Western blotting, PCR, immunofluorescence, flow cytometry, co-immunoprecipitation, cell transfection, animal modeling, and in vivo imaging.<br/>
+    <strong>Research methods:</strong> meta-analysis, NHANES data analysis, network pharmacology, and molecular docking.<br/>
+    <strong>Software:</strong> Adobe Illustrator, GraphPad Prism, and ImageJ. <strong>English:</strong> CET-4 (587), CET-6 (486).
+  </p>
+
+# No portrait was supplied in the CV. Keep the template portrait disabled rather than displaying the sample author's photo.
+portrait_url: /assets/images/xiangdong-wen.jpg
+
+education:
+- name: Peking University
+  position: Ph.D. in Surgery (Academic Track)
+  date: Sep. 2026 - present
+- name: Shandong University
+  position: Professional Master's in Orthopaedics
+  date: Jul. 2023 - Jun. 2026
+- name: Qingdao University
+  position: B.M. in Clinical Medicine
+  date: Sep. 2018 - Jun. 2023
+
+awards:
+- name: University-level scholarships (multiple awards)
+- name: Outstanding Graduate Student
+- name: Outstanding Student
+- name: Outstanding Student Leader

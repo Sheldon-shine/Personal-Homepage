@@ -1,0 +1,23 @@
+title: "Xiangdong Wen | Academic Homepage"
+baseurl: "/Personal-Homepage"
+url: "https://sheldon-shine.github.io"
+
+markdown: kramdown
+plugins:
+  - jekyll-email-protect
+
+collections:
+  publications:
+    output: true
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - blog.html
+  - showcase.html
+  - index_layout2.html
+  - _posts
+  - _news
+  - _showcase
+  - work
