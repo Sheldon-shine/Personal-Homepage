@@ -10,31 +10,28 @@ email: "wxd7926@163.com"
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a doctoral student in Surgery at Peking University. My clinical and research interests center on orthopaedic conditions, especially osteoarthritis, femoral head osteonecrosis, and anterior cruciate ligament injuries.
+    I am pursuing a doctoral degree in surgery at Peking University. My clinical and research work mainly focuses on common orthopedic diseases, with particular attention to osteoarthritis, avascular necrosis of the femoral head, and anterior cruciate ligament injuries.
   </p>
   <p>
-    My research explores hydrogel and hydrogel microsphere engineering for tissue-engineering approaches to osteoarthritis, cartilage defects, and bone defects. Related topics in my publications include macrophage regulation, oxidative stress, inflammation, and biomaterial-based repair.
+    In terms of research, I mainly conduct studies on the modification and application of bioactive materials, exploring the application of tissue engineering strategies in the treatment of osteoarthritis, cartilage defects, and bone defects repair. The related research also involves macrophage regulation, oxidative stress, inflammatory response, and biological material repair.
   </p>
   <p>
-    My clinical training includes foundational techniques in common joint surgery and the diagnosis and treatment of common orthopaedic conditions. I hold a medical qualification certificate and a medical practitioner license in China.
-  </p>
-  <p>
-    <strong>Laboratory techniques:</strong> Western blotting, PCR, immunofluorescence, flow cytometry, co-immunoprecipitation, cell transfection, animal modeling, and in vivo imaging.<br/>
-    <strong>Research methods:</strong> meta-analysis, NHANES data analysis, network pharmacology, and molecular docking.<br/>
-    <strong>Software:</strong> Adobe Illustrator, GraphPad Prism, and ImageJ. <strong>English:</strong> CET-4 (587), CET-6 (486).
+    Clinically, I am proficient in basic skills of conventional joint surgeries, possess the ability to diagnose and treat common orthopedic diseases, and have obtained the physician qualification certificate and physician practice certificate.
   </p>
 
-# No portrait was supplied in the CV. Keep the template portrait disabled rather than displaying the sample author's photo.
 portrait_url: /assets/images/xiangdong-wen.jpg
 
 education:
 - name: Peking University
+  logo: /assets/images/education/peking-university.png
   position: Ph.D. in Surgery (Academic Track)
   date: Sep. 2026 - present
 - name: Shandong University
+  logo: /assets/images/education/shandong-university.png
   position: Professional Master's in Orthopaedics
   date: Jul. 2023 - Jun. 2026
 - name: Qingdao University
+  logo: /assets/images/education/qingdao-university.png
   position: B.M. in Clinical Medicine
   date: Sep. 2018 - Jun. 2023
 

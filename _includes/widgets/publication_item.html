@@ -12,6 +12,7 @@
             <h5 class="mt-0 mb-1 font-weight-normal">{{ item.title }}</h5>
             <p class="mt-0 mb-0 small">{% include widgets/author_list.html authors=item.authors %}</p>
             {% if item.author_role %}<p class="mt-0 mb-0 small text-muted">{{ item.author_role }}</p>{% endif %}
+            {% if item.impact_factor or item.quartile %}<p class="mt-0 mb-0 small text-muted">{% if item.impact_factor %}IF: {{ item.impact_factor }}{% endif %}{% if item.impact_factor and item.quartile %} · {% endif %}{% if item.quartile %}{{ item.quartile }}{% endif %}</p>{% endif %}
             <p class="mt-0 mb-0 small">{{item.pub_pre}}<i>{{ item.pub }}</i>{{ item.pub_post }} {{ item.pub_date }} {{ item.pub_last }} <span data-semantic-scholar-id="{{ item.semantic_scholar_id }}"></span></p>
             <p class="mt-0 mb-0 small text-muted">{{ item.abstract }}</p>
             
@@ -37,6 +38,7 @@
                 <h5 class="mt-0 mb-1 font-weight-normal">{{ item.title }}</h5>
                 <p class="mt-0 mb-0 small">{% include widgets/author_list.html authors=item.authors %}</p>
                 {% if item.author_role %}<p class="mt-0 mb-0 small text-muted">{{ item.author_role }}</p>{% endif %}
+                {% if item.impact_factor or item.quartile %}<p class="mt-0 mb-0 small text-muted">{% if item.impact_factor %}IF: {{ item.impact_factor }}{% endif %}{% if item.impact_factor and item.quartile %} · {% endif %}{% if item.quartile %}{{ item.quartile }}{% endif %}</p>{% endif %}
                 <p class="mt-0 mb-0 small">{{item.pub_pre}}<i>{{ item.pub }}</i>{{ item.pub_post }} {{ item.pub_date }} {{ item.pub_last }} <span data-semantic-scholar-id="{{ item.semantic_scholar_id }}"></span></p>
                 <p class="mt-0 mb-0 small text-muted">{{ item.abstract }}</p>
                 
