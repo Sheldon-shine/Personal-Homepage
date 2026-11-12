@@ -1,6 +1,6 @@
 ---
 title: "Bimetallic MOF-Based Nanosystem with Enhanced Antioxidant Effects and HMGB1-Suppressing for Attenuating Osteoarthritis Progression"
-selected: true
+selected: false
 order: 5
 pub: "BMEMat"
 impact_factor: "17.2"

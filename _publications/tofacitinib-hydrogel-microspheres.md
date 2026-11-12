@@ -1,6 +1,6 @@
 ---
 title: "Synovial Macrophage-Targeted Tofacitinib-Loaded Hierarchical Hydrogel Microspheres Achieve Cartilage Preservation and Pain Relief in Osteoarthritis"
-selected: true
+selected: false
 order: 7
 pub: "Materials Today Bio"
 impact_factor: "10.2"

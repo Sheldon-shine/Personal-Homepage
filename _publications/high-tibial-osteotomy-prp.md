@@ -2,6 +2,7 @@
 title: "Research Progress of Combining High Tibial Osteotomy with Platelet-rich Plasma for Osteoarthritis Therapy"
 selected: true
 order: 2
+selected_order: 3
 pub: "International Journal of Medical Sciences"
 impact_factor: "3.2"
 quartile: "Q1"

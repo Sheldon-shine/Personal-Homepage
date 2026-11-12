@@ -1,6 +1,6 @@
 ---
 title: "Association of exposure to brominated flame retardants with hyperuricemia: a mediation analysis of inflammatory factors"
-selected: true
+selected: false
 order: 3
 pub: "Current Pharmaceutical Design"
 impact_factor: "2.8"

@@ -2,6 +2,7 @@
 title: "Lubricating Hydrogel Microspheres Encapsulated with Quercetin and Layered Double Hydroxide Relieve Age-Related Osteoarthritis via FOXP1-P53-P21 Axis"
 selected: true
 order: 4
+selected_order: 1
 pub: "Chemical Engineering Journal"
 impact_factor: "12.5"
 quartile: "Q1"

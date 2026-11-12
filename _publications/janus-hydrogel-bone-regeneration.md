@@ -1,6 +1,6 @@
 ---
 title: "A Janus Hydrogel Combining Macrophage Mitochondrial Regulation and Structural Support for Bone Regeneration"
-selected: true
+selected: false
 order: 6
 pub: "Soft Science"
 impact_factor: "15.2"

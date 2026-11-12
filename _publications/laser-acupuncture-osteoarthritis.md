@@ -2,6 +2,7 @@
 title: "Efficacy and safety of laser acupuncture on osteoarthritis: a systematic review and meta-analysis"
 selected: true
 order: 1
+selected_order: 2
 pub: "Frontiers in Aging Neuroscience"
 impact_factor: "4.5"
 quartile: "Q1"
